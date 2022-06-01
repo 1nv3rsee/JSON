@@ -1,5 +1,10 @@
-1) ...
-2) ... y.o.
-3) ...
-4) ...
-5) ...$
+{
+"Main_info":[
+  {
+    "Fullname":"1nversee",
+	  "Age":"99",
+	  "Pets":"1 cat"</Pets",
+	  "Salary":"$"
+  }
+  ]
+}
