@@ -1,6 +1,12 @@
-1) Few films
-2) Few series 
-3) Fav food	
-4) Fav season time
-5) Some country
-
+{
+  "Preferences":[
+    {
+      "Fav.Films":"Some Films",
+      "Fav.TV.Series":"Some TV Series",
+      "Fav.TV.Series":"Some TV Series",
+      "Fav.Food":"Some Food",
+      "Fav.Season.Time":"Autumn",
+      "Country.to.Visit":"Some country"
+    }
+    ]
+}
