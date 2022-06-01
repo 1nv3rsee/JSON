@@ -1,5 +1,10 @@
-1) Git
-2) Postman	
-3) SQL
-4) Bag Reports
-etc...
+{
+  "Skills":[
+    {
+      "Postman":"Yes",
+      "Git":"Yes",
+      "SQL":"Yes",
+      "Bug reports":"Yes"
+    }
+    ]
+}
